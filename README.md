@@ -1,4 +1,4 @@
-Em comparação entre as duas abordagens de geração de números aleatórios sem repetições, a versão otimizada (utilizando o algoritmo de Fisher-Yates) e a versão original (com verificações repetidas usando includes), há algumas diferenças claras em termos de velocidade, uso de memória e eficiência geral. Vou abordar esses aspectos de forma mais detalhada:
+Comparação entre a progamação original e a otimizada
 
 1. Velocidade de Execução
 Fisher-Yates (Otimizado):
